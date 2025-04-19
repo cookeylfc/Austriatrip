@@ -1,0 +1,73 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alpine Adventure: June 2025</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; margin: 0; background: #f9f9f9; color: #333; }
+    header { background: #003366; color: white; padding: 20px 0; text-align: center; }
+    section { padding: 20px; max-width: 1000px; margin: auto; background: white; margin-bottom: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h2 { color: #003366; }
+    img { width: 100%; border-radius: 10px; margin: 10px 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+    footer { text-align: center; padding: 10px; background: #eee; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Our Alpine Adventure: Munich & Beyond</h1>
+    <p>Thursday 5th June – Saturday 14th June, 2025</p>
+  </header>  <section>
+    <h2>Flight Details</h2>
+    <ul>
+      <li><strong>Michael:</strong> Qatar Airways, Departs DOH 09:10, Arrives MUC 14:10</li>
+      <li><strong>Wife:</strong> Lufthansa, Departs MAN 10:40, Arrives MUC 13:40</li>
+      <li><strong>Meeting Point:</strong> Munich Airport Terminal 2 Arrivals at 14:15</li>
+      <li><strong>Return:</strong> Flights on Saturday 14th June</li>
+    </ul>
+  </section>  <section>
+    <h2>Trip Overview</h2>
+    <p>We’ll rent a car and explore 5 amazing destinations across Germany, Austria, Liechtenstein, and Switzerland, staying 9 nights in total. Expect stunning landscapes, lakeside towns, and mountain views.</p>
+    <div class="grid">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Munich_Marienplatz.jpg" alt="Munich">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Innsbruck_Austria.jpg" alt="Innsbruck">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Vaduz_with_castle.jpg" alt="Vaduz">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Lucerne_-_Panorama.jpg" alt="Lucerne">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Lake_Constance_Bodensee.jpg" alt="Lake Constance">
+    </div>
+  </section>  <section>
+    <h2>Itinerary</h2>
+    <ul>
+      <li><strong>5–6 June:</strong> Munich – Explore Marienplatz, beer gardens, English Garden</li>
+      <li><strong>7 June:</strong> Drive to Innsbruck – Visit Nordkette, Old Town</li>
+      <li><strong>8 June:</strong> Drive to Vaduz – Explore castle views and city center</li>
+      <li><strong>9–10 June:</strong> Lucerne – Chapel Bridge, lake cruise, Swiss cuisine</li>
+      <li><strong>11 June:</strong> Lake Constance – Lakeside walk, Zeppelin Museum</li>
+      <li><strong>12 June:</strong> Return to Munich – Final shopping, farewell dinner</li>
+      <li><strong>13 June:</strong> Rest day / buffer day in Munich</li>
+      <li><strong>14 June:</strong> Depart</li>
+    </ul>
+  </section>  <section>
+    <h2>Estimated Costs (Per Person)</h2>
+    <ul>
+      <li><strong>Flights:</strong> Michael – 3,330 QAR, Wife – 2,747 QAR (not split)</li>
+      <li><strong>Car Rental (9 days):</strong> ~1,800 QAR (Your share: 900 QAR)</li>
+      <li><strong>Fuel & Tolls:</strong> ~700 QAR (Your share: 350 QAR)</li>
+      <li><strong>Accommodation (9 nights):</strong> ~3,600 QAR (Your share: 1,800 QAR)</li>
+      <li><strong>Food & Drinks:</strong> ~2,000 QAR (Your share: 1,000 QAR)</li>
+      <li><strong>Attractions/Extras:</strong> ~700 QAR (Your share: 350 QAR)</li>
+      <li><strong>Total Cost (incl. flight):</strong> ~7,730 QAR (Michael)</li>
+    </ul>
+  </section>  <section>
+    <h2>Trip Highlights</h2>
+    <ul>
+      <li>Lucerne’s lake cruise and mountains</li>
+      <li>Innsbruck’s panoramic views from the cable car</li>
+      <li>Exploring Munich’s culture, food, and shopping</li>
+      <li>Relaxing at Lake Constance’s peaceful shoreline</li>
+    </ul>
+  </section>  <footer>
+    Created with love for our Alpine road trip. June 2025.
+  </footer>
+</body>
+</html>
